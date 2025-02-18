@@ -1,0 +1,12 @@
+1. difference between continue and break: Break: exits the loop completely when a certain condition is met. Continue: skips the current iteration and moves to the next one. 
+2. For loop iterates over a sequence and while loop runs as long as the condition remains. 
+for loop automatically stops when the sequence ends and while loop requires manual control to avoid infinite loops.
+3. A nested loop means a loop inside another loop. It is often used for working with matrices or multi-level iterations.
+Example:
+for i in range(3):  # Outer loop
+    for j in range(3):  # Inner loop
+        print(f"i={i}, j={j}")
+
+
+
+        Quiz done- 12/13
